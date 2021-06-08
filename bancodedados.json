@@ -1,0 +1,20 @@
+{
+  "banco_de_dados": [
+    {
+      "user": "otavio",
+      "senha": "1505"
+    },
+    {
+      "user": "oi",
+      "senha": "123"
+    },
+    {
+      "user": "stp",
+      "senha": "170505"
+    },
+    {
+      "user": "oi",
+      "senha": "oi"
+    }
+  ]
+}
